@@ -1,0 +1,9 @@
+@import './base.css';
+
+
+.line {
+    background-color: var(--border-color);
+    width: 100%;
+    height: 2px;
+    margin: .5rem 0;
+}
